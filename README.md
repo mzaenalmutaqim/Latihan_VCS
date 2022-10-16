@@ -34,3 +34,41 @@ Repositories untuk membuat repository baru.
 Kemudian akan muncul halaman seperti gambar dibawah ini
 
 ![img 5](Screenshot/ss5.png)
+
+4. Buat folder dengan menggunakan perintah dan buka folder tersebut
+
+$mkdir latihan1
+
+$cd latihan1
+
+
+
+Kemudian masuk ke repository yang sudah dibuat seperti gambar berikut dan copy url yang ada didalam
+
+git code
+
+![img 6](Screenshot/ss6.png)
+
+masukan perintah $git clone https://github.com/mzaenalmutaqim/Latihan_VCS.git
+
+![img 7](Screenshot/ss7.png)
+
+Untuk Menambahkan file yang baru dibuat, gunaka perintah $git README.md
+
+![img 8](Screenshot/ss8.png)
+
+Untuk menyimpan perubahan pada repository gunakan perintah
+
+$git commit -m "Menambahkan file"
+
+$git push -u origin main
+
+![img 9](Screenshot/ss9.png)
+
+Kemudian Kita bisa cek di repository
+
+![img 10](Screenshot/ss10.png)
+
+
+
+
