@@ -69,6 +69,16 @@ Kemudian Kita bisa cek di repository
 
 ![img 10](Screenshot/ss10.png)
 
+## TERIMAKSIH
+
+![img 11](Screenshot/ss11.png)
+
+follow : 
+
+ig: @zzainly
+tiktok: @zzainly
+fb: Zainal Muttaqin
+yt: belum buat
 
 
 
