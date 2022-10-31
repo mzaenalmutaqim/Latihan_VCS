@@ -1,84 +1,81 @@
-# Latihan_VCS
-Tutorial cara penggunaan git
+# Latihan VCS
 
-Pertama kalian harus instal terlebih dahulu software Git Lalu kalian bisa buka software tersebut
+# Tutorial cara penggunaan git
+
+## Pertama kalian harus instal terlebih dahulu software Git Lalu kalian bisa buka software tersebut ##
 
 1.	Login Git
 
-Langkah pertama kalian adalah memasukan username dengan menggunakan perintah
+* Langkah pertama kalian adalah memasukan username dengan menggunakan perintah*
 
-$ git config --global user.name "UsernameAnda"
+    $ git config --global user.name "UsernameAnda"
 
-lalu kalian tambahkan juga email dengan menggunakan perintah
+* lalu kalian tambahkan juga email dengan menggunakan perintah*
 
-$ git config --global user.email "email anda"
+    $ git config --global user.email "email anda"
 
-![img 1](Screenshot/ss1.png)
+  ![img 1](Screenshot/ss1.png)
 
 2.	Login Github
 
-Langkah kedua login ke dalam website github, Setelah login maka akan muncul tampilan
+* Langkah kedua login ke dalam website github, Setelah login maka akan muncul tampilan
 
-dashboard dari github tersebut
+  dashboard dari github tersebut
 
-![img 2](Screenshot/ss2.png)
+  ![img 2](Screenshot/ss2.png)
 
 3.	Membuat Repository
 
-Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombol New pada menu 
+* Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombol New pada menu 
 
-Repositories untuk membuat repository baru.
+  Repositories untuk membuat repository baru.
 
-![img 3](Screenshot/ss3.png)
+  ![img 3](Screenshot/ss3.png)
 
-Kemudian akan muncul halaman seperti gambar dibawah ini
+* Kemudian akan muncul halaman seperti gambar dibawah ini
 
-![img 5](Screenshot/ss5.png)
+  ![img 5](Screenshot/ss5.png)
 
 4. Buat folder dengan menggunakan perintah dan buka folder tersebut
 
-$mkdir latihan1
+    $mkdir latihan1
 
-$cd latihan1
+    $cd latihan1
 
 
 
-Kemudian masuk ke repository yang sudah dibuat seperti gambar berikut dan copy url yang ada didalam
+* Kemudian masuk ke repository yang sudah dibuat seperti gambar berikut dan copy url yang ada didalam
 
-git code
+  git code
 
-![img 6](Screenshot/ss6.png)
+  ![img 6](Screenshot/ss6.png)
 
-masukan perintah $git clone https://github.com/mzaenalmutaqim/Latihan_VCS.git
+* masukan perintah
 
-![img 7](Screenshot/ss7.png)
+    $git clone https://github.com/mzaenalmutaqim/Latihan_VCS.git*
 
-Untuk Menambahkan file yang baru dibuat, gunaka perintah $git README.md
+  ![img 7](Screenshot/ss7.png)
 
-![img 8](Screenshot/ss8.png)
+* Untuk Menambahkan file yang baru dibuat, gunaka perintah $git README.md*
 
-Untuk menyimpan perubahan pada repository gunakan perintah
+  ![img 8](Screenshot/ss8.png)
 
-$git commit -m "Menambahkan file"
+* Untuk menyimpan perubahan pada repository gunakan perintah*
 
-$git push -u origin main
+    $git commit -m "Menambahkan file"
 
-![img 9](Screenshot/ss9.png)
+    $git push -u origin main
 
-Kemudian Kita bisa cek di repository
+  ![img 9](Screenshot/ss9.png)
 
-![img 10](Screenshot/ss10.png)
+* Kemudian Kita bisa cek di repository*
+
+  ![img 10](Screenshot/ss10.png)
 
 ## TERIMAKSIH
 
 ![img 11](Screenshot/ss11.png)
 
-follow : 
-
-ig: @zzainly
-tiktok: @zzainly
-fb: Zainal Muttaqin
-yt: belum buat
 
 
 
